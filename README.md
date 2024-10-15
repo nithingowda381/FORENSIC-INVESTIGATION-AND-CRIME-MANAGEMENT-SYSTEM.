@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any inquiries or issues, please contact:
 
-Project Maintainer: [NITHIN GOWDA M S]
+Project Maintainer: [NITHIN GOWDA M S,Mohan Gowda G R]
 
 Email: [nithingowda381@gmail.com]
 
